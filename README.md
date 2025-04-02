@@ -14,6 +14,8 @@ This repository contains a collection of Python scripts related to solving and s
 | `HW2.3.AMBackward`     | A backward iteration version of the AM model.  |
 | `HW2.3.KS`             | MIT shock in the Krusell–Smith model. |
 | `HW2.3.KSBackward`     | Reverse iteration for the KS model, showing divergence from forward solution. |
+| `HW2.3.KS-New`         | Updated with more precise K path, but still not trustworthy |
+| `HW2.3.KSBackward-New` | Updated with more precise K path and reverse iteration, but still not trustworthy |
 | `HW2.3.Time`           | Timing comparison script — benchmarks execution time of KS vs AM models for question 3. |
 
 
